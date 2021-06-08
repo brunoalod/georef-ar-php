@@ -1,0 +1,20 @@
+{
+    "name": "brunoalod/georef-ar-php",
+    "description": "Implementación de georef-ar-api en PHP.",
+    "keywords": ["georef-ar-api","geolocalizacion","datosgobar"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bruno Alod",
+            "email": "brunoalod@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "GeorefAR\\": "src/"
+        }
+    }
+}
