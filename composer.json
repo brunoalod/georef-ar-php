@@ -2,6 +2,7 @@
     "name": "brunoalod/georef-ar-php",
     "description": "Implementación de georef-ar-api en PHP.",
     "keywords": ["georef-ar-api","geolocalizacion","datosgobar"],
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
